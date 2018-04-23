@@ -10,7 +10,9 @@ b. Population growth, population regulation and statistical epidemiology
 
 4. Disease impacts on populations and ecosystems	11	12	13
 
-**5. Livestock, wildlife, zoonotic pathogens**	14	15	
+**5. Livestock, wildlife, zoonotic pathogens**	14	15
+
+a. Hantavirus en Bolivia y Latino America
 
 6. Disease control: Vaccination, Behavioral changes, culling	16	17	18
 7. Problem solving: controlling influenza	16,19		
