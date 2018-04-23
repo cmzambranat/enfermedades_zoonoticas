@@ -3,6 +3,6 @@
 
 Recursos para el curso de enfermedades zoonoticas. Este repositorio incluira:
 
-* Articulos para revision para cada [topico](Syllabus.md)
+* Articulos para revision para cada [topico](syllabus.md)
 * Las presentaciones en pdf
 * Codigo para modelos SIR
