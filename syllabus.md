@@ -1,33 +1,32 @@
-**1. What is disease ecology, and what is it good for?	1	2	3**
+## Congreso Latino Americano de Mastozoologia
+## Curso de enfermedades zoonoticas
+## La Paz - Bolivia
 
-a. Types of pathogen and some basic concepts
 
-**2. Foundations of disease ecology: SIR models, R0, Frequency and density dependent transmission, Nth**	4	5	6 7
+**1. Que es la ecologia de enfermedades infecciosas?	1	2	3**
 
-b. Population growth, population regulation and statistical epidemiology
+* Tipos de patogenos y conceptos basicos. [Articulos para revision.](tema-1/)
 
-**3. Directly transmitted human pathogens**	8	9	10
+**2. Conceptos basicos de la ecologia de enfermedades**	4	5	6 7
 
-4. Disease impacts on populations and ecosystems	11	12	13
+* Crecimiento poblacional, modelos depredador-presa (regulacion poblacional)
+* Modelos SIR, R<sub>0</sub>, transmision denso dependiente e independiente (incluye una practica en R)
 
-**5. Livestock, wildlife, zoonotic pathogens**	14	15
+**3. Patogenos humanos transmitidos directamente**	8	9	10
 
-a. Hantavirus en Bolivia y Latino America
+* Rutas de transmision
+* El caso del brote de Ebola en Africa en 2014
 
-6. Disease control: Vaccination, Behavioral changes, culling	16	17	18
-7. Problem solving: controlling influenza	16,19		
-8. Problem solving: herpes virus dynamics	20	22	
-9. Problem solving: Evolution of virulence:	23	24	25-27
+**4. Enfermedades Zoonoticas**	14	15
 
-**10. Caso de estudio: Rabia en Bolivia**			
+* Hantavirus en Bolivia y Latino America
+* Rabia en Bolivia
 
-11. Vector borne disease ecology I.	30	31	32	33	
-12. Seasonality, climate change and transmission dynamics	34	35	36
+**5. Biodiversidad y enfermedades: el efecto de dilucion**	40	41	42
 
-**13. Antibiotic resistance**	37	38	39
+**6. Ecologia de enfermedades y conservacion**	48	49	
 
-**14. Multi-host pathogens, biodiversity and disease: the “dilution effect”**	40	41	42
+### Topicos potenciales
+*Vector borne disease ecology*	30	31	32	33
 
-15. Plant pathogens 45	46	47
-
-**16. Disease and conservation**	48	49	
+*Antibiotic resistance*	37	38	39
