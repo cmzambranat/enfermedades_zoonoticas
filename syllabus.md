@@ -17,7 +17,7 @@ b. Population growth, population regulation and statistical epidemiology
 8. Problem solving: herpes virus dynamics	20	22	
 9. Problem solving: Evolution of virulence:	23	24	25-27
 
-**10. Case Study: White nose syndrome**			
+**10. Caso de estudio: Rabia en Bolivia**			
 
 11. Vector borne disease ecology I.	30	31	32	33	
 12. Seasonality, climate change and transmission dynamics	34	35	36
